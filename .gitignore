@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Allow dist folder for JAR distribution ###
+!dist/
