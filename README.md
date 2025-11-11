@@ -2,6 +2,34 @@
 
 A Spring Boot application built with **Java 24** that automates webhook generation and SQL query submission for the Bajaj Finserv Health hiring assessment.
 
+## 🚀 Quick Start
+
+### Option 1: Download Pre-built JAR
+
+Download and run the application directly:
+
+```bash
+# Download the JAR
+curl -L -o demo-1.0.0.jar https://raw.githubusercontent.com/UniqueBlood7899/bajaj-hiring-challenge/main/dist/demo-1.0.0.jar
+
+# Run the application
+java -jar demo-1.0.0.jar
+```
+
+### Option 2: Build from Source
+
+```bash
+# Clone the repository
+git clone https://github.com/UniqueBlood7899/bajaj-hiring-challenge.git
+cd bajaj-hiring-challenge
+
+# Build the project
+./gradlew clean build
+
+# Run the application
+./gradlew bootRun
+```
+
 ## Features
 
 - **Webhook Generation**: Automatically generates a webhook URL using candidate credentials
