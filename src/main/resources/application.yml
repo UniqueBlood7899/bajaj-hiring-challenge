@@ -1,0 +1,11 @@
+app:
+  generate-url: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+  default-webhook-url: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+
+  name: "Surya P S"
+  regNo: "PES2UG22CS603"
+  email: "pes2ug22cs603@pesu.pes.edu"
+
+logging:
+  level:
+    root: INFO
