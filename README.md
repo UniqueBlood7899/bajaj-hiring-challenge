@@ -2,7 +2,7 @@
 
 A Spring Boot application built with **Java 24** that automates webhook generation and SQL query submission for the Bajaj Finserv Health hiring assessment.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Download Pre-built JAR
 
